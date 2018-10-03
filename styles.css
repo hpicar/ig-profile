@@ -1,0 +1,31 @@
+#background-color {
+  background-color: #F8F8FF;
+}
+#container {
+  width: 1080px;
+  text-align: center;
+  background-color: white;
+  border-style: solid 3px #DDDDDD;
+}
+#top-bar {
+  height: 145px;
+  background-image: url("https://raw.githubusercontent.com/hpicar/ig-profile/master/images/Top-Bar.png");
+}
+#text-align {
+  text-align: center;
+}
+#follower-count {
+  height: 355px;
+  background-image: url("https://raw.githubusercontent.com/hpicar/ig-profile/master/images/Follower-Count.png");
+}
+#profile-picture {
+  border-radius: 50%;
+  height: 255px;
+  width: 255px;
+  margin-left: -708px;
+  margin-top: 53px;
+}
+#photo-bar {
+  height: 140px;
+  background-image: url("https://raw.githubusercontent.com/hpicar/ig-profile/master/images/Photo-Bar.png");
+}
