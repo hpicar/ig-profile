@@ -29,3 +29,14 @@
   height: 140px;
   background-image: url("https://raw.githubusercontent.com/hpicar/ig-profile/master/images/Photo-Bar.png");
 }
+.id-image {
+  display: inline;
+  width: 30%;
+}
+#bio {
+  text-align: left;
+}
+#bottom-bar {
+  height: 135px;
+  background-image: url("https://raw.githubusercontent.com/hpicar/ig-profile/master/images/Bottom-Bar.png");
+}
